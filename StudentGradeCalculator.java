@@ -7,7 +7,6 @@
 //● Assigns grades based on percentage.
 //● Displays results.
 
-package Projects.Jan;
 import java.util.Scanner;
 
 public class StudentGradeCalculator {
